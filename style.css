@@ -1,0 +1,11 @@
+html {
+    /* adding border to the measurment of boxes */
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+    /* view port height - the screen height */
+    min-height: 100vh;
+}
